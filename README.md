@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### My Github account statistics:
+![github stats](https://github-readme-stats.vercel.app/api?username=daconstenla&show_icons=true&line_height=24)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daconstenla&layout=compact&langs_count=8&exclude_repo=flash-experiments)
+
 <!--
 **daconstenla/daconstenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
